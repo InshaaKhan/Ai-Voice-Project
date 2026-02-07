@@ -78,10 +78,3 @@ User speaks
 🚧 Actively evolving — focused on improving conversation accuracy, summaries, and compliance workflows.
 
 ---
-
-## 👤 Author
-
-**Somil Rathore**  
-B.Tech IT @ IIIT Bhopal  
-Full-Stack & Cloud Engineer
-
